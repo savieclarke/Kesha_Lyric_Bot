@@ -25,6 +25,7 @@
   "homepage": "https://github.com/savieclarke/klb#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.2"
   }
 }
