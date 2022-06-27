@@ -1,0 +1,26 @@
+{
+  "name": "klb",
+  "version": "1.0.0",
+  "description": "A Kesha lyric twiiter bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savieclarke/klb.git"
+  },
+  "keywords": [
+    "kesha",
+    "lyric",
+    "twitter",
+    "bot"
+  ],
+  "author": "sc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savieclarke/klb/issues"
+  },
+  "homepage": "https://github.com/savieclarke/klb#readme"
+}
