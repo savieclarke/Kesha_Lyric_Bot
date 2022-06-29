@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/savieclarke/klb#readme",
   "dependencies": {
+    "cron": "^2.0.0",
     "dotenv": "^16.0.1",
-    "twit": "^2.2.11",
     "twitter-api-v2": "^1.12.2"
   }
 }
